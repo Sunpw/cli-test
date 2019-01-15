@@ -1,6 +1,7 @@
 {
   "name": "{{ name }}",
   "templateName": "{{ templateName }}",
+  "repertory":"{{ repertory }}",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "ddd",
